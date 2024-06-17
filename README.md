@@ -142,9 +142,9 @@ Development period: 3 days <br>
             }
 
 ```
-<div align="center">
-  <img src ="https://github.com/TakeNewcare/Project/assets/163362484/70c2bb76-74dd-4798-bc25-9e67e3b05f59"  width="250" height="300" align='left'>
-</div>
+<p align='center' >
+  <img src ="https://github.com/TakeNewcare/Project/assets/163362484/70c2bb76-74dd-4798-bc25-9e67e3b05f59"  width="250" height="300" >
+</p>
 
 
 
