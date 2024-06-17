@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\c-sharp-main\c-sharp-main\5. Class\4. 지뢰찾기\Mine(작성 중)\프로젝트\1. 지뢰찾기\Mine\bin\Release\Mine.exe.config
+C:\Users\User\Desktop\c-sharp-main\c-sharp-main\5. Class\4. 지뢰찾기\Mine(작성 중)\프로젝트\1. 지뢰찾기\Mine\bin\Release\Mine.exe
+C:\Users\User\Desktop\c-sharp-main\c-sharp-main\5. Class\4. 지뢰찾기\Mine(작성 중)\프로젝트\1. 지뢰찾기\Mine\bin\Release\Mine.pdb
+C:\Users\User\Desktop\c-sharp-main\c-sharp-main\5. Class\4. 지뢰찾기\Mine(작성 중)\프로젝트\1. 지뢰찾기\Mine\obj\Release\Mine.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c-sharp-main\c-sharp-main\5. Class\4. 지뢰찾기\Mine(작성 중)\프로젝트\1. 지뢰찾기\Mine\obj\Release\Mine.Form1.resources
+C:\Users\User\Desktop\c-sharp-main\c-sharp-main\5. Class\4. 지뢰찾기\Mine(작성 중)\프로젝트\1. 지뢰찾기\Mine\obj\Release\Mine.Form2.resources
+C:\Users\User\Desktop\c-sharp-main\c-sharp-main\5. Class\4. 지뢰찾기\Mine(작성 중)\프로젝트\1. 지뢰찾기\Mine\obj\Release\Mine.Properties.Resources.resources
+C:\Users\User\Desktop\c-sharp-main\c-sharp-main\5. Class\4. 지뢰찾기\Mine(작성 중)\프로젝트\1. 지뢰찾기\Mine\obj\Release\Mine.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c-sharp-main\c-sharp-main\5. Class\4. 지뢰찾기\Mine(작성 중)\프로젝트\1. 지뢰찾기\Mine\obj\Release\Mine.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c-sharp-main\c-sharp-main\5. Class\4. 지뢰찾기\Mine(작성 중)\프로젝트\1. 지뢰찾기\Mine\obj\Release\Mine.exe
+C:\Users\User\Desktop\c-sharp-main\c-sharp-main\5. Class\4. 지뢰찾기\Mine(작성 중)\프로젝트\1. 지뢰찾기\Mine\obj\Release\Mine.pdb
