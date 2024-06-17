@@ -1,18 +1,23 @@
-# <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=duckdb&logoColor=red"/>지뢰찾기 게임
+# <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=duckdb&logoColor=red"/> Minesweeper
 
-
+<br>
 
 <p align="center">
   <img src ="https://github.com/TakeNewcare/Project/assets/163362484/53782992-4f6a-409e-b15f-835712bd9f90"  width="250" height="300" align='left'>
   <img src ="https://github.com/TakeNewcare/Project/assets/163362484/a5300c74-990c-4456-b741-94863e45d85b"  width="250" height="300">
 </p>
 
-## <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=googledocs&logoColor=black"/>프로젝트 정보
-만든 이유 : c#과  winform 공부<br>
-부산폴리텍 하이테크과정 <br>
-개발기간 : 3일<br>
+## <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=googledocs&logoColor=black"/> Project Info
+저는 부산폴리텍 하이테크 과정에서 c#과 winform에 대해 배우는 중 매번 컨텐츠의 끝을 보지 않는 부분이 아쉬워
+혼자 끝까지 만들어 본 미니 프로젝트입니다.
+마인 숫자(플래그 갯수)와 경과 시간 그리고 재시작 버튼을 담고 있는 패널을 객체를 만들어 추가하였습니다.
 
-## 개발자 소개
+Reason for making: studying c# and winform <br>
+Busan Polytechnic High-Tech Course <br>
+Development period: 3 days <br>
+<br>
+
+## 개발팀 소개
 <table>
   <tr>
     <th>정진영</th>
@@ -42,17 +47,15 @@
 ### Communication
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 
-### <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=airplayvideo&logoColor=black"/>화면 구성
-|시작화면|이겼을 때|졌을 때|
+### <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=airplayvideo&logoColor=black"/>Screen configuration
+|Start|Win|Lose|
 |:---:|:---:|:---:|
 |<img src ="https://github.com/TakeNewcare/Project/assets/163362484/d01b57bc-6ecf-49df-90e1-6dbecaa22806"  width="250" height="300">|<img src ="https://github.com/TakeNewcare/Project/assets/163362484/4835c918-7354-409a-bb5a-031a4a94cab0"  width="250" height="300">|<img src ="https://github.com/TakeNewcare/Project/assets/163362484/43eee671-87e4-4f2d-b474-151f8441f9b7"  width="250" height="300">|
 |**10x10**|**15x15**|**20x20**|
 |<img src ="https://github.com/TakeNewcare/Project/assets/163362484/a5300c74-990c-4456-b741-94863e45d85b"  width="250" height="300">|<img src ="https://github.com/TakeNewcare/Project/assets/163362484/3573918e-6900-458c-b7a2-75090f4cadde"  width="250" height="300">|<img src ="https://github.com/TakeNewcare/Project/assets/163362484/ce9581cb-77e8-4fb3-9e81-00a57a254441"  width="250" height="300">|
 
-## 주요 기능
-###
-
-
+## main function
+### 
 
 
 
