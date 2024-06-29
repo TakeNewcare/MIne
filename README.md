@@ -12,12 +12,12 @@
 
 ## <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=googledocs&logoColor=black"/> Project Info
 저는 부산폴리텍 하이테크 과정에서 c#과 winform에 대해 배우는 중 입니다.
-저의 첫 프로젝트는 지뢰찾기 게임입니다.
+저의 첫 프로젝트는 지뢰찾기 게임입니다.<br><br>
 프로그램의 핵심 부분인 지뢰를 넣는 부분과 안전지대를 클릭 시 주변의 8칸이 자동으로 열리는 부분까지는 강의 중에 학습할 수 있었습니다.
-
-게임 시작 시, 사용자로부터 레벨을 입력 받는 폼과 게임 화면에서 지뢰의 갯수와 시간, 클릭하면 플레이하던 레벨이 재시작되는
+<br><br>
+그리고 게임 시작 시, 사용자로부터 레벨을 입력 받는 폼과 게임 화면에서 지뢰의 갯수와 시간, 클릭하면 플레이하던 레벨이 재시작되는
 스마일 아이콘과 강의에서 배웠던 주변 8칸을 찾는 코드를 통해 오픈된 지역과 오픈되지 않은 지역을 클릭 시
-범위를 보여주는 기능을 추가해 보았습니다.
+범위를 보여주는 기능 등을 추가해 보았습니다.
 <br><br>
 Reason for making: studying c# and winform <br>
 Busan Polytechnic High-Tech Course <br>
@@ -126,7 +126,9 @@ private void Flag_btn(object sender, MouseEventArgs e)
 
 ## <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=googledocs&logoColor=black"/> 새로 알게된 점과 느낀점
 이번 프로젝트를 진행하면서 새로 알게된 부분은 label 컨트롤은 다른 컨트롤들과는 다르게 상속받아서 사용할 수 없다는 부분입니다.
+<br><br>
 지뢰를 만들 때 button 컨트롤을 상속 받는 클래스를 만들어 form에서 반복문을 통해 최대갯수로 인스턴스를 생성하여 배열에 담고  visible 속성을 통해 레벨에 따라 필요한 부분만 보이게 만들었지만,
+<br><br>
 전광판 객체를 생성할 때 label 컨트롤 상속을 시도하다 알게된 사실이며 label 뿐만 아니라, ListView와 ToolStrip 등 기본 컨트롤 중 몇가지 컨트롤이 상속할 수 없다는 점을 알게 되었습니다.
 
 <br>
