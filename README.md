@@ -5,8 +5,8 @@
 
 <p align="center">
    
-  <img src ="https://github.com/TakeNewcare/Project/assets/163362484/53782992-4f6a-409e-b15f-835712bd9f90"  width="250" height="300" align='left'>
-  <img src ="https://github.com/TakeNewcare/Project/assets/163362484/a5300c74-990c-4456-b741-94863e45d85b"  width="250" height="300">
+  <img src ="../main/Image/start.png"  width="250" height="300" align='left'>
+  <img src ="../main/Image/win.png"  width="250" height="300">
 </p>
 
 
@@ -36,7 +36,7 @@ Development period: 3 days <br>
     </td>
   </tr>
   <tr>
-    <td> <img src ="../main/Image/나.png"  width="200" height="200"></td>
+    <td> <img src ="../main/Image/me.JPG"  width="200" height="200"></td>
   </tr>
   <tr>
     <td align='center'>wlsdud1525@naver.com</td>
@@ -55,11 +55,11 @@ Development period: 3 days <br>
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 
 ### <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=airplayvideo&logoColor=black"/>Screen configuration
-|Start|Win|Lose|
+|Start|Win|End|
 |:---:|:---:|:---:|
-|<img src ="https://github.com/TakeNewcare/Project/assets/163362484/d01b57bc-6ecf-49df-90e1-6dbecaa22806"  width="250" height="300">|<img src ="https://github.com/TakeNewcare/Project/assets/163362484/4835c918-7354-409a-bb5a-031a4a94cab0"  width="250" height="300">|<img src ="https://github.com/TakeNewcare/Project/assets/163362484/43eee671-87e4-4f2d-b474-151f8441f9b7"  width="250" height="300">|
+|<img src ="../main/Image/start.png"  width="250" height="300">|<img src ="../main/Image/win.png"  width="250" height="300">|<img src ="../main/Image/end.png"  width="250" height="300">|
 |**10x10**|**15x15**|**20x20**|
-|<img src ="https://github.com/TakeNewcare/Project/assets/163362484/a5300c74-990c-4456-b741-94863e45d85b"  width="250" height="300">|<img src ="https://github.com/TakeNewcare/Project/assets/163362484/3573918e-6900-458c-b7a2-75090f4cadde"  width="250" height="300">|<img src ="https://github.com/TakeNewcare/Project/assets/163362484/ce9581cb-77e8-4fb3-9e81-00a57a254441"  width="250" height="300">|
+|<img src ="../main/Image/10x10.png"  width="250" height="300">|<img src ="../main/Image/15x15.png"  width="250" height="300">|<img src ="../main/Image/20x20.png"  width="250" height="300">|
 
 ## 
 
