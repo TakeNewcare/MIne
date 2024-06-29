@@ -10,9 +10,6 @@
 </p>
 
 
-
-
-
 ## <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=googledocs&logoColor=black"/> Project Info
 저는 부산폴리텍 하이테크 과정에서 c#과 winform에 대해 배우는 중 입니다.
 저의 첫 프로젝트는 지뢰찾기 게임입니다.
@@ -126,5 +123,10 @@ private void Flag_btn(object sender, MouseEventArgs e)
     }
 }
 ```
-<br>
 
+## <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=googledocs&logoColor=black"/> 새로 알게된 점과 느낀점
+이번 프로젝트를 진행하면서 새로 알게된 부분은 label 컨트롤은 다른 컨트롤들과는 다르게 상속받아서 사용할 수 없다는 부분입니다.
+지뢰를 만들 때 button 컨트롤을 상속 받는 클래스를 만들어 form에서 반복문을 통해 최대갯수로 인스턴스를 생성하여 배열에 담고  visible 속성을 통해 레벨에 따라 필요한 부분만 보이게 만들었지만,
+전광판 객체를 생성할 때 label 컨트롤 상속을 시도하다 알게된 사실이며 label 뿐만 아니라, ListView와 ToolStrip 등 기본 컨트롤 중 몇가지 컨트롤이 상속할 수 없다는 점을 알게 되었습니다.
+
+<br>
