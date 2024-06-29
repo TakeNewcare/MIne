@@ -4,6 +4,7 @@
 <br>
 
 <p align="center">
+   
   <img src ="https://github.com/TakeNewcare/Project/assets/163362484/53782992-4f6a-409e-b15f-835712bd9f90"  width="250" height="300" align='left'>
   <img src ="https://github.com/TakeNewcare/Project/assets/163362484/a5300c74-990c-4456-b741-94863e45d85b"  width="250" height="300">
 </p>
@@ -35,7 +36,7 @@ Development period: 3 days <br>
     </td>
   </tr>
   <tr>
-    <td> <img src ="https://github.com/TakeNewcare/Project/assets/163362484/c1ae717b-4156-4085-826f-7113ff18cf5d"  width="200" height="200"></td>
+    <td> <img src ="../main/Image/나.png"  width="200" height="200"></td>
   </tr>
   <tr>
     <td align='center'>wlsdud1525@naver.com</td>
