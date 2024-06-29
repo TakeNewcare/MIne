@@ -143,13 +143,7 @@ Development period: 3 days <br>
             }
 
 ```
-<p align='center' >
-  <img src ="https://github.com/TakeNewcare/Project/assets/163362484/70c2bb76-74dd-4798-bc25-9e67e3b05f59"  width="250" height="300" >
-</p>
-
-
 
 
 <br>
-참조
-리드미 작성 방법 : https://velog.io/@luna7182/%EB%B0%B1%EC%97%94%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-README-%EC%93%B0%EB%8A%94-%EB%B2%95
+
