@@ -74,5 +74,3 @@ Development period : 5 days <br>
 <br><br>
 전광판 객체를 생성할 때 label 컨트롤 상속을 시도하다 알게된 사실이며 label 뿐만 아니라, ListView와 ToolStrip 등 기본 컨트롤 중 몇가지 컨트롤이 상속할 수 없다는 점을 알게 되었습니다.
 <br>
-
-## 자세한 코드는 프로젝트 PDF 파일 참조 부탁드립니다.
