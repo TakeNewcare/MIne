@@ -14,11 +14,13 @@
 저는 부산폴리텍 하이테크 과정에서 c#과 winform 등을 배우는 중 입니다.<br>
 저의 첫 프로젝트는 지뢰찾기 게임으로 아래의 싸이트를 참고하여 만들어 보았습니다.<br>
 <br>
+결과물 : ㄹㅇㄴㄹㅇㅁㄻㄹㅇㄹㄴㅇㄹ
+<br>
 참고 싸이트 : https://minesweeper.online/ko/
 <br><br>
 Reason for making : studying c# and winform <br>
 Busan Polytechnic High-Tech Course <br>
-Development period : 5 days <br>
+Development period : 24.05.20 ~ 24.05.28<br>
 <br>
 
 ## 개발팀 소개
@@ -60,17 +62,18 @@ Development period : 5 days <br>
 |<img src ="../main/Image/10x10.png"  width="250" height="300">|<img src ="../main/Image/15x15.png"  width="250" height="300">|<img src ="../main/Image/20x20.png"  width="250" height="300">|
 
 
-## main function
+## 주요 기능
 1. 안전지대 클릭 시 주변의 8칸 오픈(안전지대 열리면 재귀)
 2. 플래그 기능
 3. 경계선 클릭 시 범위 보여주는 기능
 
 <hr> 
 
-## 새로 알게된 점과 느낀점
-이번 프로젝트를 진행하면서 새로 알게된 부분은 label 컨트롤은 다른 컨트롤들과는 다르게 상속받아서 사용할 수 없다는 부분입니다.
-<br><br>
-지뢰를 만들 때 button 컨트롤을 상속 받는 클래스를 만들어 form에서 반복문을 통해 최대갯수로 인스턴스를 생성하여 배열에 담고  visible 속성을 통해 레벨에 따라 필요한 부분만 보이게 만들었지만,
-<br><br>
-전광판 객체를 생성할 때 label 컨트롤 상속을 시도하다 알게된 사실이며 label 뿐만 아니라, ListView와 ToolStrip 등 기본 컨트롤 중 몇가지 컨트롤이 상속할 수 없다는 점을 알게 되었습니다.
+## 새로 알게된 점
+이번 프로젝트를 진행하면서 새로 알게된 부분은 label 컨트롤은 다른 컨트롤들과는 다르게 상속받아서 사용할 수 없다는 부분입니다.<br>
+전광판 내에 지뢰 갯수와 시간을 구현하기위해 label 컨트롤을 상속 받아 구현하자는 계획이었습니다. <br>
+하지만, label 컨트롤 상속은 불가능하다는 것을 알게되어 전광판 객체에 button 컨트롤을 추가하는 방식으로 해결하였습니다.<br>
 <br>
+※ label 뿐만 아니라, ListView와 ToolStrip 등 기본 컨트롤 중 몇가지 컨트롤이 상속할 수 없다.
+<br>
+
