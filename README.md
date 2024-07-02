@@ -25,6 +25,8 @@ Development period : 24.05.12 ~ 24.05.15(4 days)<br>
 ## 결과물
 https://youtu.be/9BTxzeImkWY
 
+<br>
+
 ## 개발팀 소개
 <table>
   <tr>
