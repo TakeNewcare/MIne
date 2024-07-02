@@ -20,7 +20,7 @@
 <br><br>
 Reason for making : studying c# and winform <br>
 Busan Polytechnic High-Tech Course <br>
-Development period : 24.05.20 ~ 24.05.28<br>
+Development period : 24.05.12 ~ 24.05.15(4 days)<br>
 <br>
 
 ## 개발팀 소개
