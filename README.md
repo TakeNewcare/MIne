@@ -13,8 +13,7 @@
 ## 프로젝트 소개
 저는 부산폴리텍 하이테크 과정에서 c#과 winform 등을 배우는 중 입니다.<br>
 저의 첫 프로젝트는 지뢰찾기 게임으로 아래의 싸이트를 참고하여 만들어 보았습니다.<br>
-<br>
-결과물 : https://youtu.be/9BTxzeImkWY
+
 <br>
 참고 싸이트 : https://minesweeper.online/ko/
 <br><br>
@@ -22,6 +21,9 @@ Reason for making : studying c# and winform <br>
 Busan Polytechnic High-Tech Course <br>
 Development period : 24.05.12 ~ 24.05.15(4 days)<br>
 <br>
+
+## 결과물
+https://youtu.be/9BTxzeImkWY
 
 ## 개발팀 소개
 <table>
