@@ -19,7 +19,7 @@
 <br><br>
 Reason for making : studying c# and winform <br>
 Busan Polytechnic High-Tech Course <br>
-Development period : 24.05.12 ~ 24.05.15(4 days)<br>
+Development period : 24.05.16 ~ 24.05.19(4 days)<br>
 <br>
 
 ## 결과물
@@ -55,7 +55,7 @@ https://youtu.be/9BTxzeImkWY
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 
 ### Development
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/>  <img src="https://img.shields.io/badge/-WinForm-FF0000?logo=Csharp&style=flat&logo=csharp&logoColor=white"/> 
 
 ### 화면 구성
 |Start|Win|End|
