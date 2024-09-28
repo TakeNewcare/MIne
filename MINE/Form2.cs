@@ -34,7 +34,6 @@ namespace Mine
             start_text.Text = "지뢰찾기 게임!!!";
             Controls.Add(start_text);
 
-
             // 버튼 생성 및 이벤트 추가
             for (int i = 0; i < 3; i++)
             {
@@ -47,7 +46,6 @@ namespace Mine
             }
 
         }
-
 
         // 버튼 클릭 시 폼 1에 레벨과 마인 숫자 반환 및 폼2 종료
         private void Select_Level(object sender, EventArgs e)
